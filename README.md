@@ -11,5 +11,4 @@ personalised and inclusive learning experience. Evaluations show significant imp
 engagement and training effectiveness, highlighting the potential of AI in transforming sports education.
 
 ## Technical Report
-Download the full dissertation: [Dissertation.pdf](./MSc-Project-Report-Technical-Report
-.pdf)
+Download the full dissertation: [Dissertation.pdf](./MSc-Project-Report-Technical-Report.pdf)
