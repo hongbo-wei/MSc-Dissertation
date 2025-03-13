@@ -12,3 +12,6 @@ engagement and training effectiveness, highlighting the potential of AI in trans
 
 ## Technical Report
 Download the full dissertation: [Dissertation.pdf](./MSc-Project-Report-Technical-Report.pdf)
+
+### Notes
+[BoxingHub](https://www.boxinghub.org/)) is hosted online. And the AI functions such as computer vision are not available in the website in order to reduce the  cost of cloud computing.
